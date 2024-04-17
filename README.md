@@ -24,8 +24,8 @@ Requirements should be installed based on user's PC specs. Using `pip`, install 
 
 | Package   | Description                                                                                                                                         | Contributors                         |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| main      | Contains all the GUI related code for the project.                                                                                                  | Ankang Luo Alvin Hendricks           |
-| sam       | Contains code to generate SAM instance and run segmentation. The utility also contains functions for rendering annotations and IO tools for saving. | Alvin Hendricks Ankang Luo           |
-| watershed | Contains code to run preprocessing and Watershed pipeline. Also contain utility functions that generate figures and annotations for use in the GUI. | Rhea Kaul Ankang Luo Alvin Hendricks |
+| main      | Contains all the GUI related code for the project.                                                                                                  | Ankang Luo <br> Alvin Hendricks          |
+| sam       | Contains code to generate SAM instance and run segmentation. The utility also contains functions for rendering annotations and IO tools for saving. | Alvin Hendricks <br> Ankang Luo           |
+| watershed | Contains code to run preprocessing and Watershed pipeline. Also contain utility functions that generate figures and annotations for use in the GUI. | Rhea Kaul <br> Ankang Luo <br> Alvin Hendricks |
 | metrics   | Contains the code for analyzing and generating metrics from binary images.                                                                          | Alvin Hendricks                      |
 | test      | Contains testing code for SAM generation.                                                                                                           | Alvin Hendricks                      |
