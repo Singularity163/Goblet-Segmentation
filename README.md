@@ -20,6 +20,10 @@ In short, the pipeline consists of:
 
 Requirements should be installed based on user's PC specs. Using `pip`, install `requirements.txt` for CUDA enabled PCs, and `requirements_ngpu.txt` otherwise.
 
+## Use
+
+The `start.bat` should launch the app if the correct requirements are installed, otherwise run `main.py` in `src`.
+
 ## Repo In a Nutshell
 
 | Package   | Description                                                                                                                                         | Contributors                         |
